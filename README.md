@@ -25,3 +25,4 @@ Things you may want to cover:
 # facebook_clone
 # facebook-clone-editted
 # facebook-clone-editted
+# friends-connection-eddited
